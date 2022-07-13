@@ -1,5 +1,5 @@
 # udacity-projects
-projects of FWD/UDACITY the data track
+projects of FWD/UDACITY data track
 
 
 [finding donors]:
