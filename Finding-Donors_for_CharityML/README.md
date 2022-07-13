@@ -2,6 +2,10 @@ This project uses supervised learning techniques on US census data to assist Cha
 
 -Based on real census data, Investigated the factors that influence the likelihood of charitable donations being made. To compare testing results to, Created a naive classifier. On preprocessed census data, trained and tested several supervised machine learning models to predict the likelihood of donations. picked the most accurate model based on algorithm effectiveness, a modified F-scoring metric, and accuracy.
 
+### Code
+
+The main code for this project can be found in the notebook file 'finding donors.ipynb', 'visuals.py' contains additional supporting code for visualising the required graphs.
+
 ### Data
 
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
